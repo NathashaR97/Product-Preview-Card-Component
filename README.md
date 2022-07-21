@@ -2,7 +2,6 @@
 
 ## Welcome! 👋 Thanks for checking out thing Challenge
 
-[Figma file link] (https://www.figma.com/file/Ah7Lvq8usTV6GxKKkN3Yay/%F0%9F%94%B4-Product-Preview-Card-Component-%F0%9F%94%B4?node-id=0%3A1)
 [Frontend Metor Link] (https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
 Your challenge is to build out this preview card component and get it looking as close to the design as possible. Your users should be able to:
